@@ -1,0 +1,13 @@
+input,
+textarea,
+select,
+button {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+
+.container{
+    padding: 2em;
+}
